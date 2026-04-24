@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/aboubacarali/k8s.git
-    targetRevision: main
+    targetRevision: master
     path: .
 
   destination:
